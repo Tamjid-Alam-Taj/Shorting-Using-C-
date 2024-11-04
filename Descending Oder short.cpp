@@ -2,7 +2,7 @@
 using namespace std;
 
 bool comp(int a, int b) {
-    return a > b;//ascending order
+    return a > b;//descending order
 }
 
 int main() {
